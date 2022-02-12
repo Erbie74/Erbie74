@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erbie74
 - 👀 I’m interested in programming, Linux and computers overall
-- 🌱 I’m currently learning more about C# and Linux.
+- 🌱 I’m currently learning about C# and Linux.
 
 
 <!---
