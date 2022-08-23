@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Erbie74
-- 👀 I’m interested in programming, Linux and computers overall
-- 🌱 I’m currently learning about HTML/CSS, JS and Linux.
+- 🌱 I study at Häme University of Applied Sciences #HAMK ICT, Bioeconomy
+- 👀 I’m interested in programming and Linux & technology and computers overall
+
 
 
 <!---
